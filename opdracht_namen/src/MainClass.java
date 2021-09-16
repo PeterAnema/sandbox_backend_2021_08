@@ -1,6 +1,7 @@
 import com.sun.security.jgss.GSSUtil;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -15,8 +16,9 @@ public class MainClass {
         while (true) {
             System.out.print("Geef een naam: ");
             String name = scanner.nextLine();
-            if (name.isEmpty())
+            if (name.isEmpty()) {
                 break;
+            }
             names.add(name);
         };
 
