@@ -7,6 +7,7 @@ public class Person {
     private String name;
     private String residense;
     private List<Result> results = new ArrayList<>();
+    private List<Auto> autos = new ArrayList<>();
 
     // constructor
     public Person(String name, String residense) {
@@ -47,6 +48,10 @@ public class Person {
 
     public void addResult(Result result) {
         results.add(result);
+    }
+
+    public void addAuto(Auto auto) {
+        autos.add(auto);
     }
 
 }
