@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo_arrays/demo_arrays.iml" filepath="$PROJECT_DIR$/demo_arrays/demo_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_lists/demo_lists.iml" filepath="$PROJECT_DIR$/demo_lists/demo_lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_loops/demo_loops.iml" filepath="$PROJECT_DIR$/demo_loops/demo_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_maps/demo_maps.iml" filepath="$PROJECT_DIR$/demo_maps/demo_maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_oo_auto/demo_oo_auto.iml" filepath="$PROJECT_DIR$/demo_oo_auto/demo_oo_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_oo_persoon/demo_oo_persoon.iml" filepath="$PROJECT_DIR$/demo_oo_persoon/demo_oo_persoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eerste_project/eerste_project.iml" filepath="$PROJECT_DIR$/eerste_project/eerste_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meneer_of_mevrouw/meneer_of_mevrouw.iml" filepath="$PROJECT_DIR$/meneer_of_mevrouw/meneer_of_mevrouw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seconden_in_een_week/seconden_in_een_week.iml" filepath="$PROJECT_DIR$/seconden_in_een_week/seconden_in_een_week.iml" />
+    </modules>
+  </component>
+</project>
