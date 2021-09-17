@@ -5,14 +5,14 @@ public class Person {
 
     // attributen
     private String name;
-    private String residense;
+    private String residence;
     private List<Result> results = new ArrayList<>();
     private List<Auto> autos = new ArrayList<>();
 
     // constructor
-    public Person(String name, String residense) {
+    public Person(String name, String residence) {
         this.name = name;
-        this.residense = residense;
+        this.residence = residence;
     }
 
     // getters and setters
@@ -24,12 +24,12 @@ public class Person {
         this.name = name;
     }
 
-    public String getResidense() {
-        return residense;
+    public String getResidence() {
+        return residence;
     }
 
-    public void setResidense(String residense) {
-        this.residense = residense;
+    public void setResidence(String residence) {
+        this.residence = residence;
     }
 
     // extra methods
